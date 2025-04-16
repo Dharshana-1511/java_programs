@@ -10,16 +10,16 @@ public class PalindormeCheck {
  
  	if(reversed.equals(input))
 		 
- {
+ 	{
 	 System.out.println("It is an example of palindrome");
 	 
- }
+    }
  
  	else
- {
+    {
 	 System.out.println("It is NOT a palindrome");
 
- }
+    }
  
 }
 	}
