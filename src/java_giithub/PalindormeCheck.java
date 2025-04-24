@@ -4,6 +4,7 @@ public class PalindormeCheck {
 
 	public static void main(String[] args) 
 {
+		
 		String input= "Automation";
 		String  reversed = new StringBuilder(input).reverse().toString();
 		System.out.println(reversed);
