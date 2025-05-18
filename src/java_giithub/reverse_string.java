@@ -6,10 +6,8 @@ public class reverse_string {
 	public static void main(String[] args) {
 		
 
+
 		        String s = "Dharshana "; 
-
-		        String s = "Dharshana"; 
-
 		        String r = "";
 		        char ch;
 
