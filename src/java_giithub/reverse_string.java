@@ -5,7 +5,9 @@ public class reverse_string {
 
 	public static void main(String[] args) {
 		
-		        String s = "Dhar"; 
+
+
+		        String s = "Dharshana "; 
 		        String r = "";
 		        char ch;
 
